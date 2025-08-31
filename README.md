@@ -11,7 +11,7 @@ As a technical leader, I have experience in process optimization, project archit
 ### My Experience Includes:
 
 * **Technical Leadership and Data Engineering:** I act as a technical leader, defining scalable architectures and implementing best development practices in agile environments using Scrum. I led the creation and maintenance of Big Data services, focusing on performance and robustness. I also developed integrations between microservices using Python and Kafka.
-* **Full-Stack Development:** I developed a system for material flow control, integrating firmware, AI, and mobile resources (Android/iOS). I used technologies such as Node.js (NestJS, Prisma), React/React Native, RabbitMQ, MongoDB, and PostgreSQL.
+* **Full-Stack Development:** I developed a system for material flow control, integrating firmware, AI, and mobile resources (Android/iOS). I used technologies such as Node.js (NestJS, Prisma), Python (FastAPI), React/React Native, RabbitMQ, MongoDB, and PostgreSQL.
 * **Mobile Development:** I created a chatbot for technical support that reduced unnecessary calls by 40%. I used Node.js, React Native, and Socket.IO to build mobile and web applications with AI API integration.
 
 ---
